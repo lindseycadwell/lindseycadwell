@@ -4,7 +4,7 @@ I am seeking full time employment as a fullstack, frontend, or backend web devel
 
 The tech stack I am currently learning includes: 
 - Typescript
-- React (Redux, Styled-Components)
+- React (Redux, Styled-Components, Storybook)
 - Node.js (Express, REST) 
 - MongoDB (Mongoose) 
 
